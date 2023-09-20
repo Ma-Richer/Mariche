@@ -2,7 +2,7 @@
 ### Shopee Brazil, Dashboards with Power BI
 <img src="https://1000marcas.net/wp-content/uploads/2021/06/Shopee-logo.png" alt="Shopee Logo" width="100">
 
-## Dataset for the Shopee Brazil, Capstone Project!
+## Dataset for the Shopee Brazil!
 
 **Data information:**
 The data provided by Shopee are customer.csv file, details such as orders, customer demographics,and a purchase.csv file with details of products and the segment information, quantity, shipping cost etc. To adhere to privacy policies, certain columns have been deleted from the dataset.
