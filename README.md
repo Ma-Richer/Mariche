@@ -16,7 +16,13 @@ The data provided by Shopee are customer.csv file, details such as orders, custo
 **Objective:**
 To generate a report with some important insights which can be helpful for the company to better understand their customers.
 
-
+**Data Transformation:**
+- Renamed columns
+- Changed column type
+- Changed Regional setting
+- Filtered country
+- Added Column for Age Group using Conditional Formatting with Power Query Editor
+- Added column for Total Purchase Amount
 
 <!---Shopee, Brazil
 Ma-Richer/Ma-Richer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
