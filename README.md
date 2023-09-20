@@ -4,9 +4,12 @@
 
 ## Dataset for the Shopee Brazil, Capstone Project!
 
-Data information
-- The data provided by Shopee contains all the required details such as orders, customer demographics, products and the segment
+**Data information:**
+The data provided by Shopee contains all the required details such as orders, customer demographics, products and the segment
 information, quantity, shipping cost etc. To adhere to privacy policies, certain columns have been deleted from the dataset.
+
+**Objective:**
+To generate report with some important insights which can be helpful for the company to better understand their customers.
 
 
 
