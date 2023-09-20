@@ -1,6 +1,9 @@
 ## NTUC Learning Hub: SCTP - Associate Data Analyst Capstone Project 
 ### Shopee Brazil, Dashboards with Power BI
 <img src="https://1000marcas.net/wp-content/uploads/2021/06/Shopee-logo.png" alt="Shopee Logo" width="100">
+![Shopee Brazil, Customer Report](relative/path/to/your/image.png)
+
+
 
 ## Dataset for the Shopee Brazil!
 
