@@ -22,7 +22,7 @@ To generate a report with some important insights which can be helpful for the c
 - Changed column type
 - Changed Regional setting
 - Filtered country
-- Added Column for Age Group using Conditional Formatting with Power Query Editor
+- Added Columns for Age Group and Income Group using Conditional Formatting with Power Query Editor
 - Added column for Total Purchase Amount
 
 <!---Shopee, Brazil
