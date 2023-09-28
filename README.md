@@ -6,8 +6,9 @@
 
 ![Image Alt Text](https://github.com/Ma-Richer/Mariche/blob/main/P4_overview.png)
 
-![Image Alt Text](https://
+![Image Alt Text](https://github.com/Ma-Richer/Mariche/blob/main/P4_customer.png)
 
+![Image Alt Text](https://github.com/Ma-Richer/Mariche/blob/main/P4_product.png)
 
 ## Dataset for the Shopee Brazil!
 
