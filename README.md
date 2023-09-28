@@ -2,10 +2,11 @@
 ### Shopee Brazil, Dashboards with Power BI
 <img src="https://1000marcas.net/wp-content/uploads/2021/06/Shopee-logo.png" alt="Shopee Logo" width="100">
 
-![Image Alt Text](https://github.com/Ma-Richer/Mariche/raw/main/Screenshot%20(249).png)
+![Image Alt Text](https://github.com/Ma-Richer/Mariche/raw/main/P4_overview.png)
 
+![Image Alt Text](https://github.com/Ma-Richer/Mariche/raw/main/P4_customer.png)
 
-
+![Image Alt Text](https://github.com/Ma-Richer/Mariche/raw/main/P4_product.png)
 
 
 ## Dataset for the Shopee Brazil!
